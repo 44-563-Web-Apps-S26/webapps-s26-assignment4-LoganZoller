@@ -42,3 +42,16 @@ td, th {border: solid 1px red;
 
 tr:nth-child(even)
     {background-color: grey;}
+
+.Sillimon:hover {text-shadow: 2px 3px 5px forestgreen;
+                 border: solid 1px green;}
+
+.Chorus:hover {text-shadow: 2px 3px 5px forestgreen;
+                 border: solid 1px green;}
+
+.Nicemis:hover {text-shadow: 2px 3px 5px forestgreen;
+                 border: solid 1px green;}
+
+.Pretteia:hover {text-shadow: 2px 3px 5px forestgreen;
+                 border: solid 1px green;}
+
