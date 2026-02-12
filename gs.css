@@ -34,3 +34,10 @@
 .direction:hover {background-color: yellow;
         color: red;}
 
+table {border: solid 3px maroon;}
+
+td, th {border: solid 1px red;
+        text-align: center;}
+
+tr:nth-child(even)
+    {background-color: grey;}
