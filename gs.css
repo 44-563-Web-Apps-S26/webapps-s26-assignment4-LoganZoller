@@ -1,0 +1,31 @@
+.speech {color: black;
+        font-family: 'Times New Roman';
+        font-size: 12px;}
+
+.song {color: black;
+       font-family: 'Franklin Gothic Medium';
+       font-size: 14px}
+
+.direction {color: black;
+            font-family: sans-serif;
+            font-size: 10px;}
+
+.name {color: black;
+       font-family: 'Lucida Sans';
+       font-size: 16px;}
+
+.Chorus {color: maroon;
+        font-family: 'Franklin Gothic Medium';}
+
+.Sillimon {color: lightcoral;
+           font-family: 'Times New Roman';}
+
+.Pretteia {color: purple;
+           font-family: 'Times New Roman';}
+
+.Nicemis {color: green;
+          font-family: 'Times New Roman';}
+
+.hover {background-color: yellow;
+        color: red;}
+
